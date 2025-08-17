@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Gabriela Diaz
 
-I'm an Environmental Engineering graduate with a background in program management, staffing, and quality control. While I started my career outside of tech, I’ve always had a passion for problem-solving and I discovered that coding allows me to tackle real-world challenges in a more dynamic and impactful way.
+I'm an Environmental Engineering with a background in program management, staffing, and quality control. While I started my career outside of tech, I’ve always had a passion for problem-solving and I discovered that coding allows me to tackle real-world challenges in a more dynamic and impactful way.
 
 My passion for technology and efficiency led me to transition into software development and complete a coding bootcamp, where I built hands-on experience in:
 
