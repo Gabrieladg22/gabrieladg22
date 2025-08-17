@@ -8,6 +8,8 @@ My passion for technology and efficiency led me to transition into software deve
 - **PostgreSQL**
 - **Spring Boot** (RESTful APIs, unit testing)
 - **HTML, CSS**
+- **React**
+- **Vue.js**
 
 ### 💡 What I've Built
 My favorite project is a **trading platform** that allows businesses to exchange surplus materials and calculates **carbon emissions saved** using an external API. It combines my technical skills with my sustainability background to create real-world impact.
